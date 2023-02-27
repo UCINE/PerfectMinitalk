@@ -1,2 +1,2 @@
 # PerfectMinitalk
-**soon**
+**super simple **
